@@ -6,6 +6,12 @@ const emojiItems = [
         genres: ["drama", "comedy","romance"],
         year: 2003
     },{
+    title: "James and the Giant Peach",
+    author: "Roald Dahl",
+    emojiImgs: "🧑🍑🐞🐛🕷️🌊",
+    genres: ["fantasy", "fairytale & children's"],
+    year: 1961
+    },{
         title: "Frankenstein",
         author: "Mary Shelley",
         emojiImgs: "🧪➕➡️🧟⚰️",
